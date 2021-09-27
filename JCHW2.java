@@ -1,7 +1,7 @@
 package JCHW2;
 import JCHW2.Exceptions.*;
 import JCHW2.Tools.Converter;
-// на проверку
+
 
 public class JCHW2 {
     public static void main(String[] args) {
